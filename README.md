@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Full Stack Developer. 
 - 💞️ I’m looking to collaborate on Small programs and projects to get more experience in the field of programming.
 - 📫 How to reach me :Email reinielgarcia96@gmail.com
-- 
 
 <!---
 reiniel96/reiniel96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
